@@ -23,7 +23,7 @@ banner = """                     __         ___  ___________
 
           - Sina Kheirkhah (@SinSinology) of watchTowr (@watchTowrcyber)
 
-        CVEs: [CVE-2026-Pending]
+        CVEs: [cve-2026-41940]
 """
 
 print(banner)
