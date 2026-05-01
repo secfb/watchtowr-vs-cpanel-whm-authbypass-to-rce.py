@@ -12,6 +12,9 @@ This Detection Artifact Generator verifies if cPanel/WHM is vulnerable to a [rec
 
 Test against a vulnerable instance:
 
+
+nuclei -duc -t CVE-2026-41940.yaml -u testtes.com
+
 ```
 python authbypass-RCE.py --target https://target:2087/ 
                      __         ___  ___________
